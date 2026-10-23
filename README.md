@@ -17,8 +17,3 @@ Plain Lua, no dependencies. Requires Neovim 0.10+.
 	end,
 }
 ```
-
-## Development
-
-To try local changes, point lazy.nvim at your clone with `dir = "~/Projects/blueberry-chocolate-cake.nvim"`
-and run `:colorscheme blueberry-chocolate-cake` after each edit.
